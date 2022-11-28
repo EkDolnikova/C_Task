@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.exe
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.deps.json
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.runtimeconfig.json
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.dll
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\bin\Debug\net6.0\Example005_if_Else.pdb
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.dll
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\refint\Example005_if_Else.dll
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.pdb
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\Example005_if_Else.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Обучение. Тестировщик\c#1лекция\Example005_if_Else\obj\Debug\net6.0\ref\Example005_if_Else.dll
